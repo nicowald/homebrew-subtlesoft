@@ -1,6 +1,6 @@
 cask "midipipe" do
     version "2.2.1"
-    sha256 "b84ba3e8caf4920cf4517b92817c3724149112b5bd7275dbd1754a448016baa2"
+    sha256 "ce991b86937baf38c63772329ae31632056ba9e0adb68a71f75a3219d508ce55"
   
     url "https://raw.githubusercontent.com/nicowald/homebrew-subtlesoft/refs/heads/main/Sparkle/MidiPipe/MidiPipe_V2.2.1.zip"
     name "MidiPipe"

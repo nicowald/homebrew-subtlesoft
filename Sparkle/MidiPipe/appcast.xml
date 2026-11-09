@@ -4,8 +4,8 @@
         <title>MidiPipe</title>
         <item>
             <title>2.2.1</title>
-            <pubDate>Mon, 09 Nov 2026 19:39:47 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Mon, 09 Nov 2026 19:46:40 +0100</pubDate>
+            <sparkle:version>2.2.1</sparkle:version>
             <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[# MidiPipe Release Notes
@@ -357,7 +357,7 @@
 
 - initial release
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/nicowald/homebrew-subtlesoft/refs/heads/main/Sparkle/MidiPipe/MidiPipe_V2.2.1.zip" length="5641445" type="application/octet-stream" sparkle:edSignature="KoWwArdcH8ALGPpR2lUXSLV658NQzhSHlPQrq8sWPFbt5pBVGLUKeTsG4ezJtfeXXRmZX+UBPzubsfPRQanODQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/nicowald/homebrew-subtlesoft/refs/heads/main/Sparkle/MidiPipe/MidiPipe_V2.2.1.zip" length="5641444" type="application/octet-stream" sparkle:edSignature="dqCFtELpGpVA6G7UEGYQdL3naqPP3yjHB3SdmPoimTpPUriJ/R4wjRMZwKpHbd+0ZLYwfBe4khgJWaKd8Ua2DA=="/>
         </item>
     </channel>
 </rss>
